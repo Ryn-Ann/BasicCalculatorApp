@@ -7,6 +7,7 @@ using CalculatorLibrary;
 
 // References:
 // https://docs.microsoft.com/en-gb/visualstudio/get-started/csharp/tutorial-console?view=vs-2022
+// https://docs.microsoft.com/en-gb/visualstudio/get-started/csharp/tutorial-console-part-2?view=vs-2022
 // https://codeasy.net/lesson/input_validation
 
 namespace CalculatorProgram
