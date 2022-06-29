@@ -90,6 +90,8 @@ namespace CalculatorProgram
                 Console.WriteLine("\n");    // Empty line space
             }
 
+            // Close the JSON writer before return
+            calculator.Complete();
             return;
         }
     }
